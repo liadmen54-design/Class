@@ -19,7 +19,7 @@ namespace LM_Testing2_2027
         {
             Session["Uname"] = UserName.Text;
             Session["Ucity"] = UserCity.Text;
-
+            //test
             Response.Redirect("Demo_08_Session_02.aspx");
 
         }
