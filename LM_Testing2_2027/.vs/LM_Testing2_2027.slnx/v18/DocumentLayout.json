@@ -3,27 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\liadm\\.copilot\\plans\\plan-split-demo-homework-into-separate-asp.net-projects.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\lm_testing2_2027\\demo_08_session_01.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|c:\\users\\liadm\\source\\repos\\liadmen54-design\\class\\lm_testing2_2027\\lm_testing2_2027\\demo_08_session_01.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|solutionrelative:lm_testing2_2027\\demo_08_session_01.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\lm_testing2_2027\\demo_08_session_01.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|solutionrelative:lm_testing2_2027\\demo_08_session_01.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\lm_testing2_2027\\demo_08_session_02.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|solutionrelative:lm_testing2_2027\\demo_08_session_02.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\lm_testing2_2027\\demo_08_session_02.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|solutionrelative:lm_testing2_2027\\demo_08_session_02.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\lm_testing2_2027\\demo_08_session_02.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|solutionrelative:lm_testing2_2027\\demo_08_session_02.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,42 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "plan-split-demo-homework-into-separate-asp.net-projects.md [Preview]",
-              "DocumentMoniker": "C:\\Users\\liadm\\.copilot\\plans\\plan-split-demo-homework-into-separate-asp.net-projects.md",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\.copilot\\plans\\plan-split-demo-homework-into-separate-asp.net-projects.md",
-              "ToolTip": "C:\\Users\\liadm\\.copilot\\plans\\plan-split-demo-homework-into-separate-asp.net-projects.md [Preview]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\.copilot\\plans\\plan-split-demo-homework-into-separate-asp.net-projects.md [Preview]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-11-07T14:11:52.59Z",
-              "EditorCaption": " [Preview]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Demo_08_Session_02.aspx",
-              "DocumentMoniker": "C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\LM_Testing2_2027\\Demo_08_Session_02.aspx",
-              "RelativeDocumentMoniker": "LM_Testing2_2027\\Demo_08_Session_02.aspx",
-              "ToolTip": "C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\LM_Testing2_2027\\Demo_08_Session_02.aspx",
-              "RelativeToolTip": "LM_Testing2_2027\\Demo_08_Session_02.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-10-04T20:02:06.32Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Demo_08_Session_02.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\LM_Testing2_2027\\Demo_08_Session_02.aspx.cs",
-              "RelativeDocumentMoniker": "LM_Testing2_2027\\Demo_08_Session_02.aspx.cs",
-              "ToolTip": "C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\LM_Testing2_2027\\Demo_08_Session_02.aspx.cs",
-              "RelativeToolTip": "LM_Testing2_2027\\Demo_08_Session_02.aspx.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAJAAAAAAAAAA==",
+              "Title": "Demo_08_Session_01.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\LM_Testing2_2027\\Demo_08_Session_01.aspx.cs",
+              "RelativeDocumentMoniker": "LM_Testing2_2027\\Demo_08_Session_01.aspx.cs",
+              "ToolTip": "C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\LM_Testing2_2027\\Demo_08_Session_01.aspx.cs",
+              "RelativeToolTip": "LM_Testing2_2027\\Demo_08_Session_01.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T20:15:52.644Z"
+              "WhenOpened": "2026-11-07T15:49:50.904Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Demo_08_Session_01.aspx",
               "DocumentMoniker": "C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\LM_Testing2_2027\\Demo_08_Session_01.aspx",
               "RelativeDocumentMoniker": "LM_Testing2_2027\\Demo_08_Session_01.aspx",
@@ -85,31 +47,7 @@
               "RelativeToolTip": "LM_Testing2_2027\\Demo_08_Session_01.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-10-04T20:32:18.265Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Demo_08_Session_01.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\LM_Testing2_2027\\Demo_08_Session_01.aspx.cs",
-              "RelativeDocumentMoniker": "LM_Testing2_2027\\Demo_08_Session_01.aspx.cs",
-              "ToolTip": "C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\LM_Testing2_2027\\Demo_08_Session_01.aspx.cs",
-              "RelativeToolTip": "LM_Testing2_2027\\Demo_08_Session_01.aspx.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T20:32:22.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Demo_08_Session_02.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\LM_Testing2_2027\\Demo_08_Session_02.aspx.designer.cs",
-              "RelativeDocumentMoniker": "LM_Testing2_2027\\Demo_08_Session_02.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\LM_Testing2_2027\\Demo_08_Session_02.aspx.designer.cs",
-              "RelativeToolTip": "LM_Testing2_2027\\Demo_08_Session_02.aspx.designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T20:45:26.582Z"
+              "WhenOpened": "2026-11-07T15:49:46.167Z"
             }
           ]
         }

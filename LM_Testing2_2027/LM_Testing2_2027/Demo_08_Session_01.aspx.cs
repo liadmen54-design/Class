@@ -21,7 +21,7 @@ namespace LM_Testing2_2027
             Session["Ucity"] = UserCity.Text;
             
             Response.Redirect("Demo_08_Session_02.aspx");
-            //TEST5
+            //TEST
         }
     }
 }
