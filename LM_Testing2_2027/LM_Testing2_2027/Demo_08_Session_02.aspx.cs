@@ -15,6 +15,7 @@ namespace LM_Testing2_2027
         }
         protected void btnSession02_Click(object sender, EventArgs e)
         {
+            //test
             GetUserName.Text = Session["Uname"].ToString();
             GetUserCity.Text = Session["Ucity"].ToString();
         }
