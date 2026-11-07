@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|c:\\users\\liadm\\source\\repos\\liadmen54-design\\class\\lm_testing2_2027\\lm_testing2_2027\\demo_08_session_02.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|solutionrelative:lm_testing2_2027\\demo_08_session_02.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\lm_testing2_2027\\demo_08_session_01.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|solutionrelative:lm_testing2_2027\\demo_08_session_01.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\lm_testing2_2027\\demo_08_session_02.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|solutionrelative:lm_testing2_2027\\demo_08_session_02.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\lm_testing2_2027\\demo_08_session_01.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|solutionrelative:lm_testing2_2027\\demo_08_session_01.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|c:\\users\\liadm\\source\\repos\\liadmen54-design\\class\\lm_testing2_2027\\lm_testing2_2027\\demo_08_session_02.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|solutionrelative:lm_testing2_2027\\demo_08_session_02.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7107FA77-1E6E-4B2B-8F76-5DE081750490}|LM_Testing2_2027\\LM_Testing2_2027.csproj|C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\lm_testing2_2027\\demo_08_session_01.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,10 +34,6 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
@@ -50,24 +46,25 @@
               "RelativeToolTip": "LM_Testing2_2027\\Demo_08_Session_02.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-10-04T20:02:06.32Z"
+              "WhenOpened": "2026-10-04T20:02:06.32Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Demo_08_Session_02.aspx.cs",
               "DocumentMoniker": "C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\LM_Testing2_2027\\Demo_08_Session_02.aspx.cs",
               "RelativeDocumentMoniker": "LM_Testing2_2027\\Demo_08_Session_02.aspx.cs",
               "ToolTip": "C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\LM_Testing2_2027\\Demo_08_Session_02.aspx.cs",
               "RelativeToolTip": "LM_Testing2_2027\\Demo_08_Session_02.aspx.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-04T20:15:52.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Demo_08_Session_01.aspx",
               "DocumentMoniker": "C:\\Users\\liadm\\source\\repos\\liadmen54-design\\Class\\LM_Testing2_2027\\LM_Testing2_2027\\Demo_08_Session_01.aspx",
               "RelativeDocumentMoniker": "LM_Testing2_2027\\Demo_08_Session_01.aspx",
@@ -75,7 +72,8 @@
               "RelativeToolTip": "LM_Testing2_2027\\Demo_08_Session_01.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-10-04T20:32:18.265Z"
+              "WhenOpened": "2026-10-04T20:32:18.265Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
